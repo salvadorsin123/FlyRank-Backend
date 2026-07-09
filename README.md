@@ -1,10 +1,9 @@
 # 🚀 FlyRank
 
-A flight ranking application built with FastAPI.
+Backend AI Engineering
 
 ## 📋 Description
 
-FlyRank is a platform that provides APIs to manage and rank flights. The project is under active development and is regularly updated with new features.
 
 ## ✅ Task Status
 
@@ -88,6 +87,7 @@ Once the server is running, you can access:
 ## 🤖 AI Tools Used
 
 - **Claude Haiku 4.5** - For development assistance and code generation
+- **Gemini Pro** - For development assistance and code generation
 
 ## 🔄 Upcoming Tasks
 
