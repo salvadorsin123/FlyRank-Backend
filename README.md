@@ -1,16 +1,14 @@
 # 🚀 FlyRank
 
 Backend AI Engineering
-Backend AI Engineering
 
 ## 📋 Description
 
-
 ## ✅ Task Status
 
-| Task | Description | Status | Overviwe |
-|------|-------------|--------|
-| **BE-01** | Build first API endpoint | ✅ Completed | [BE-01](BE-01/) |
+| Task | Description | Status | Overview |
+|------|-------------|--------|----------|
+| **BE-01** | Build first API endpoint | ✅ Completed | [View Task](BE-01/) |
 
 ## 🛠️ Technologies
 
