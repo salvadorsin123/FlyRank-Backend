@@ -48,8 +48,8 @@ Returns a welcome message.
 }
 ```
 
-#### GET /status
-Returns the current application status.
+#### GET /status 
+Returns the current application status at `http://localhost:8000/status`
 
 **Response:**
 ```json
